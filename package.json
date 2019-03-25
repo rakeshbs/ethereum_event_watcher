@@ -1,0 +1,7 @@
+{
+  "name": "event_watcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rakeshbs",
+  "license": "MIT"
+}
